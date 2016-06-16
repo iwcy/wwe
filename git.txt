@@ -1,2 +1,2 @@
-git is a version control system and free 
-git is a software
+git is not svn 
+git is good 
